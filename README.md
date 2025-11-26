@@ -1,17 +1,84 @@
-## Hi there 👋
+# #!/usr/bin/env Khanyisa 👋🏽
 
-<!--
-**Khebe-Dev/Khebe-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering student with a Financial Accounting twist.**  
+Exploring **Cloud, DevOps & full-stack development**, and turning ideas into impact, one line of code at a time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm focusing on right now
 
+- 🎓 NQF 6 **Software Engineering** @ WeThinkCode_  
+- ☁️ **Cloud & DevOps** – CI/CD pipelines, Docker, Terraform, Ansible  
+- 💡 Building projects that combine **tech + finance + community impact**  
+- 👩🏽‍💻 Hackathons, fellowships & growing as a builder
+
+---
+
+## 🧠 A bit about my journey
+
+I began my career in **accounting** and discovered that I enjoy  
+**designing systems more than recording numbers**.
+
+Pivoting into Software Engineering helped me blend:
+
+- structured accounting logic  
+- creative problem solving  
+- and cloud-first engineering
+
+Now I’m passionate about:
+
+- DevOps culture & automation  
+- Cloud-native apps  
+- FinTech, education & developer tools
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+`Java` · `Python` · `SQL` · `JavaScript` · `HTML` · `CSS` · `React
+
+**Frameworks & Tools:**  
+`Version Control` · `Docker` · `SQLite` ·  `Django` · `REST APIs` 
+
+**Cloud & DevOps:**  
+`CI/CD Pipelines` · `AWS Cloud Services` · `Terraform` · `Ansible`
+
+**Other superpowers:**  
+`Problem-Solving` · `Teamwork` · `Learning Agility` · `Growth Mindset`
+
+---
+
+## 🏆 Highlights
+
+- 🥇 **1st Place – GirlCode Hackathon Cape Town (2025)**  
+- 🥇 **1st Place – Mukuru x WeThinkCode_ SheHacks (2025)**  
+- 👩🏽‍💻 **Tech4Dev Africa – Women Techsters Fellow (DevOps Track)**  
+- 🏅 **Golden Key International Honour Award** (Top 15% Academic Merit)
+
+---
+
+## 📂 Featured Projects
+
+- 🍰 [`Dessert-Recipe`](https://github.com/Khebe-Dev/Dessert-Recipe) — A sweet and simple recipe collection.  
+- 🎲 [`rap_name_picker`](https://github.com/Khebe-Dev/rap_name_picker) — Fun Python project that generates custom rap names.  
+
+> More Cloud, DevOps, and full-stack projects coming soon 🚀
+
+---
+
+## 📊 GitHub Stats
+
+![Khanyisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khebe-Dev&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khebe-Dev&layout=compact)
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/khanyisa-hebe-72a911311)  
+- 💻 [GitHub](https://github.com/Khebe-Dev)  
+- ✉️ [Email](mailto:hebekhanyisa@gmail.com)
+
+<!-- CI/CD complete. Thanks for scrolling ✨ -->
