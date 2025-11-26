@@ -74,9 +74,9 @@ Now I’m passionate about:
 
 ## 📊 GitHub Stats
 
-![Khanyisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khebe-Dev&show_icons=true&theme=default)
+![Khanyisa's GitHub stats](https://github-readme-stats-mu-amber.vercel.app/api?username=Khebe-Dev&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khebe-Dev&layout=compact)
+![Top Langs](https://github-readme-stats-mu-amber.vercel.app/api/top-langs/?username=Khebe-Dev&layout=compact)
 
 ---
 
