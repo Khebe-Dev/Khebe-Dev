@@ -14,6 +14,11 @@ Exploring **Cloud, DevOps & full-stack development**, and turning ideas into imp
 
 ---
 
+## 📄 My CV/Resume 
+[Click here to download my CV](./Khanyisa_Hebe_CV.pdf)
+
+---
+
 ## 🧠 A bit about my journey
 
 I began my career in **accounting** and discovered that I enjoy  
