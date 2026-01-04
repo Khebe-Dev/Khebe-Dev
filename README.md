@@ -15,7 +15,10 @@ Exploring **Cloud, DevOps & full-stack development**, and turning ideas into imp
 ---
 
 ## 📄 My CV / Resume  
-👉 **[View my live CV (Cloud-hosted)](https://d32x73ktc0pp42.cloudfront.net/)**  
+<a href="https://d32x73ktc0pp42.cloudfront.net/" target="_blank" rel="noopener noreferrer">
+👉 <strong>View my live CV (Cloud-hosted)</strong>
+</a>
+
 
 ---
 
