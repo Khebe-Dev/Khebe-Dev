@@ -14,8 +14,8 @@ Exploring **Cloud, DevOps & full-stack development**, and turning ideas into imp
 
 ---
 
-## 📄 My CV/Resume 
-[Click here to download my CV](./Khanyisa_Hebe_CV.pdf)
+## 📄 My CV / Resume  
+👉 **[View my live CV (Cloud-hosted)](https://d32x73ktc0pp42.cloudfront.net/)**  
 
 ---
 
