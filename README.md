@@ -1,82 +1,46 @@
 # #!/usr/bin/env Khanyisa 👋🏽
 
-**Software Engineering student with a Financial Accounting twist.**  
-Exploring **Cloud, DevOps & full-stack development**, and turning ideas into impact, one line of code at a time.
+**Cloud-focused Software Engineering student** with a Financial Accounting background.
+I build cloud-native systems, automate delivery with CI/CD, and develop **full-stack applications.**
 
 ---
 
-## 🌱 What I'm focusing on right now
+## 🌱 My focus
 
-- 🎓 NQF 6 **Software Engineering** @ WeThinkCode_  
-- ☁️ **Cloud & DevOps** – CI/CD pipelines, Docker, Terraform, Ansible  
-- 💡 Building projects that combine **tech + finance + community impact**  
+- 🎓 NQF 6 **Software Engineering** @ WeThinkCode_ *(COMPLETED Dec 2025)*
+- ☁️ **Cloud & DevOps**  
+- 💡 Backend & full-stack development 
 - 👩🏽‍💻 Hackathons, fellowships & growing as a builder
 
 ---
 
 ## 📄 My CV / Resume  
-👉 **[View my live CV (Cloud-hosted)](https://d32x73ktc0pp42.cloudfront.net/)**  
-
----
-
-## 🧠 A bit about my journey
-
-I began my career in **accounting** and discovered that I enjoy  
-**designing systems more than recording numbers**.
-
-Pivoting into Software Engineering helped me blend:
-
-- structured accounting logic  
-- creative problem solving  
-- and cloud-first engineering
-
-Now I’m passionate about:
-
-- DevOps culture & automation  
-- Cloud-native apps  
-- FinTech, education & developer tools
+👉 **[View my Live Cloud CV](https://d32x73ktc0pp42.cloudfront.net/)**  
 
 ---
 
 ## 🛠 Tech Stack
 
 **Languages:**  
-`Java` · `Python` · `SQL` · `JavaScript` · `HTML` · `CSS` · `React`
+`Java` · `Python` · `SQL` · `JavaScript` 
 
 **Frameworks & Tools:**  
-`Version Control` · `Docker` · `SQLite` ·  `Django` · `REST APIs` 
+`Docker` · `Git` · `Linux` · `REST APIs` 
 
 **Cloud & DevOps:**  
-`CI/CD Pipelines` · `AWS Cloud Services` · `Terraform` · `Ansible`
+`AWS Cloud Services` · `CI/CD Pipelines` · `Terraform` 
 
-**Other superpowers:**  
-`Problem-Solving` · `Teamwork` · `Learning Agility` · `Growth Mindset`
-
----
-
-## 🏆 Highlights
-
-- 🥇 **1st Place – GirlCode Hackathon Cape Town (2025)**  
-- 🥇 **1st Place – Mukuru x WeThinkCode_ SheHacks (2025)**  
-- 👩🏽‍💻 **Tech4Dev Africa – Women Techsters Fellow (DevOps Track)**  
-- 🏅 **Golden Key International Honour Award** (Top 15% Academic Merit)
+**Other strengths:**  
+`Problem-Solving` · `Collaborative Teamwork` · `Learning Agility` · `Growth Mindset`
 
 ---
 
 ## 📂 Featured Projects
 
-- 🍰 [`Dessert-Recipe`](https://github.com/Khebe-Dev/Dessert-Recipe) — A sweet and simple recipe collection.  
-- 🎲 [`rap_name_picker`](https://github.com/Khebe-Dev/rap_name_picker) — Fun Python project that generates custom rap names.  
+- ☁️ [`Cloud Resume Challenge (AWS)`](https://github.com/Khebe-Dev/Cloud_Resume) — A static website of my CV with serverless backend and CI/CD automation.
+- 🎓 [`Ndlela EduTech`](https://d2iymlu37sns7u.cloudfront.net/) — Full-stack interactive web app for career guidance.
 
 > More Cloud, DevOps, and full-stack projects coming soon 🚀
-
----
-
-## 📊 GitHub Stats
-
-![Khanyisa's GitHub stats](https://github-readme-stats-git-master-k5y4e.vercel.app/api?username=Khebe-Dev&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats-git-master-k5y4e.vercel.app/api/top-langs/?username=Khebe-Dev&layout=compact)
 
 ---
 
@@ -89,4 +53,4 @@ Now I’m passionate about:
 ---
 
 ```bash
-# CI/CD complete. Thanks for scrolling ✨
+# Workflow complete. Thanks for scrolling ✨
