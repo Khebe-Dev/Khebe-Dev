@@ -37,8 +37,8 @@ I build cloud-native systems, automate delivery with CI/CD, and develop **full-s
 
 ## 📂 Featured Projects
 
-- ☁️ [`Cloud Resume Challenge (AWS)`](https://github.com/Khebe-Dev/Cloud_Resume) — A static website of my CV with serverless backend and CI/CD automation.
-- 🎓 [`Ndlela EduTech`](https://d2iymlu37sns7u.cloudfront.net/) — Full-stack interactive web app for career guidance.
+- 💸 [`Expense Sharing API (AWS)`](https://github.com/Khebe-Dev/expense-sharing-api.git) — An expense sharing web application.
+- 🎓 [`Ndlela EduTech`](https://d2iymlu37sns7u.cloudfront.net/) — An interactive web app for career guidance.
 
 > More Cloud, DevOps, and full-stack projects coming soon 🚀
 
