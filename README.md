@@ -7,6 +7,7 @@ I build cloud-native systems, automate delivery with CI/CD, and develop **full-s
 
 ## 🌱 My focus
 
+- 🪟 Microsoft **Azure** Fundamentals AZ900
 - 🎓 NQF 6 **Software Engineering** @ WeThinkCode_ *(COMPLETED Dec 2025)*
 - ☁️ **Cloud & DevOps**  
 - 💡 Backend & full-stack development 
